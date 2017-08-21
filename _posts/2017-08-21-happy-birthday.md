@@ -1,8 +1,8 @@
 ---
 title: Happy Birthday !!
 teaser: 
-category: LOL
-tags: [markdown, workflow, foss]
+category: BirthdayBomb
+tags: [Birthday, Janamdin, FullON]
 reddit_post: ''
 featured_comments:
   - url: ''
