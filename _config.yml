@@ -2,8 +2,8 @@
 # Theme Customization #
 #######################
 
-title: J. Bravo          # appears in the header and the HTML <title> tag
-author: Johnny Bravo     # appears in an HTML <meta> tag, as well as feed.xml
+title: Manish Pushp          # appears in the header and the HTML <title> tag
+author: Manish Pushp     # appears in an HTML <meta> tag, as well as feed.xml
 description: >           # appears in an HTML <meta> tag, as well as feed.xml
   Hello 911 emergency, there's a handsome guy in my house!
   Oh wait a second, cancel that. It's only me.
@@ -21,16 +21,16 @@ nav_menu:
     url: /
     icon: /i/icons.svg#posts # icons should be 24x24 px.
   - name: Projects
-    url: /projects
+    url: /
     icon: /i/icons.svg#portfolio
   - name: GitHub
-    url: https://github.com/rlue/
+    url: /
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: Contact
     scheme: mailto      # these keys enable email obfuscation.
-    handle: hello       # you know, to protect you from bots. (handle and domain
-    domain: github.com  # are separated in case bots crawl GitHub repos, too.)
+    handle: ping       # you know, to protect you from bots. (handle and domain
+    domain: manishpushp.com  # are separated in case bots crawl GitHub repos, too.)
     icon: /i/icons.svg#email
 
 # Objects listed here will appear on the /projects.html page.
